@@ -70,5 +70,5 @@ In order to cope with the vast diversity of book content and typefaces, it is im
   * [Character Segmentation, Language Models and Beam Search](das_tutorial2016/4CharSegmentation.pdf)
   * [Page Layout Analysis](das_tutorial2016/5LayoutAnalysis.pdf)
   * [Modernization Efforts](das_tutorial2016/6ModernizationEfforts.pdf)
-  * [Building a Multilingual OCR Engine]("das_tutorial2016/7Building a Multi-Lingual OCR Engine.pdf")
+  * [Building a Multilingual OCR Engine](das_tutorial2016/7Building%20a%20Multi-Lingual%20OCR%20Engine.pdf)
 
