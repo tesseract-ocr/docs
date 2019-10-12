@@ -27,7 +27,7 @@ Published at [2009 10 th International Conference on Document Analysis and Recog
   * [Character Segmentation, Language Models and Beam Search](das_tutorial2016/4CharSegmentation.pdf)
   * [Page Layout Analysis](das_tutorial2016/5LayoutAnalysis.pdf)
   * [Modernization Efforts](das_tutorial2016/6ModernizationEfforts.pdf)
-  * [Building a Multilingual OCR Engine]("das_tutorial2016/7Building a Multi-Lingual OCR Engine.pdf")
+  * [Building a Multilingual OCR Engine](das_tutorial2016/7Building%20a%20Multi-Lingual%20OCR%20Engine.pdf)
 
 ## [Table detection in heterogeneous documents](Table_detection_in_heterogeneous_documents.pdf)
 ([source](https://www.researchgate.net/publication/220933188_Table_detection_in_heterogeneous_documents))
