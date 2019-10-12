@@ -14,18 +14,23 @@ The Tesseract OCR engine, as was the HP Research Prototype in the UNLV Fourth An
 ## [Hybrid Page Layout Analysis via Tab-Stop Detection](PageLayoutAnalysisICDAR2.pdf)
 
 Published at [2009 10 th International Conference on Document Analysis and Recognition](https://dblp1.uni-trier.de/db/conf/icdar/icdar2007.html).
-([source](https://ai.google/research/pubs/pub35094)
+
+([source](https://ai.google/research/pubs/pub35094))
 
 A new hybrid page layout analysis algorithm is proposed, which uses bottom-up methods to form an initial data-type hypothesis and locate the tab-stops that were used when the page was formatted. The detected tab-stops are used to deduce the column layout of the page. The column layout is then applied in a top-down manner to impose structure and reading-order on the detected regions. The complete C++ source code implementation is available as part of the Tesseract open source OCR engine athttps://github.com/tesseract-ocr/tesseract.
 
 ## [Combined Orientation and Script Detection using the Tesseract OCR Engine](Combined_Orientation_and_Script_Detection_using_the_Tesseract_OCR_Engine.pdf)
-([source](https://ai.google/research/pubs/pub35506)
+
+([source](https://ai.google/research/pubs/pub35506))
+
 Publication Year: 2009
 
 This paper proposes a simple but effective algorithm to estimate the script and dominant page orientation of the text contained in an image. A candidate set of shape classes for each script is generated using synthetically rendered text and used to train a fast shape classifier. At run time, the classifier is applied independently to connected components in the image for each possible orientation of the component, and the accumulated confidence scores are used to determine the best estimate of page orientation and script. Results demonstrate the effectiveness of the approach on a dataset of 1846 documents containing a diverse set of images in 14 scripts and any of four possible page orientations.
 
 ## [Adapting the Tesseract Open Source OCR Engine for Multilingual OCR](MOCRadaptingtesseract2.pdf)
-([source](https://ai.google/research/pubs/pub35248)
+
+([source](https://ai.google/research/pubs/pub35248))
+
 Publication Year: 2009
 
 We describe efforts to adapt the Tesseract open source OCR engine for multiple scripts and languages. Effort has been concentrated on enabling generic multi-lingual operation such that negligible customization is required for a new language beyond providing a corpus of text. Although change was required to various modules, including physical layout analysis, and linguistic post-processing, no change was required to the character classifier beyond changing a few limits. The Tesseract classifier has adapted easily to Simplified Chinese. Test results on English, a mixture of European languages, and Russian, taken from a random sample of books, show a reasonably consistent word error rate between 3.72% and 5.78%, and Simplified Chinese has a character error rate of only 3.77%.
@@ -34,7 +39,8 @@ We describe efforts to adapt the Tesseract open source OCR engine for multiple s
 
 
 ## [Table detection in heterogeneous documents](Table_detection_in_heterogeneous_documents.pdf)
-([source](https://ai.google/research/pubs/pub35652)
+
+([source](https://ai.google/research/pubs/pub35652))
 
 Publication Year: 2010
 
@@ -47,7 +53,8 @@ using Line Information](https://hal.archives-ouvertes.fr/hal-00934902/file/ICDAR
 
 
 ## [Limits on the Application of Frequency-based Language Models to OCR](Limits_on_the_Application_of_Frequency-based_Language_Models_to_OCR.pdf)
-([source](https://ai.google/research/pubs/pub36984)
+
+([source](https://ai.google/research/pubs/pub36984))
 
 Publication Year: 2011
 
@@ -55,7 +62,8 @@ Although large language models are used in speech recognition and machine transl
 
 
 ## [Improving Book OCR by Adaptive Language and Image Models](Improving_Book_OCR_by_Adaptive_Language_and_Image_Models.pdf)
-([source](https://ai.google/research/pubs/pub37481)
+
+([source](https://ai.google/research/pubs/pub37481))
 
 Publication Year: 2012
 
